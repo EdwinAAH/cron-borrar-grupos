@@ -1,0 +1,13 @@
+
+{
+  "name": "cron_borrar_grupos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "borrarGrupos.js",
+  "scripts": {
+    "start": "node borrarGrupos.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.1"
+  }
+}
